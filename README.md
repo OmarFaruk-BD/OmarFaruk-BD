@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarFaruk-BD
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning dart and flutter
+- 🌱 I’m currently learning Dart and Flutter
 - 💞️ I’m looking to collaborate on app development
 - 📫 Reach me at omarfaruk2bd@gmail.com
 
